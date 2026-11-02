@@ -1,0 +1,245 @@
+id,instruccion,programa
+ood_001,"Hacé una casa de dos piezas: pared cuadrada azul 2×2 desde (1,2) y techo triangular rojo 2×2 inmediatamente encima, con los bordes izquierdos alineados. El borde inferior de la huella del techo queda sobre la línea y=2. Sumá un sol, círculo amarillo tamaño 1, en (5,0).","TRIANGLE RED 1 0 2
+CIRCLE YELLOW 5 0 1
+SQUARE BLUE 1 2 2"
+ood_002,"Quiero una cabaña verde con techo rojo. La pared es un cuadrado de tamaño 3 anclado en (0,3). El techo, un triángulo de tamaño 3, va pegado encima y alineado por la izquierda, de modo que su huella termine en la línea horizontal y=3. Dibujá además un círculo amarillo tamaño 1 en (5,1), como sol.","TRIANGLE RED 0 0 3
+CIRCLE YELLOW 5 1 1
+SQUARE GREEN 0 3 3"
+ood_003,"Construí un faro con tres módulos de huella 2×2 apilados sin huecos y alineados por la izquierda. Desde (2,0) hacia abajo van la luz circular amarilla y dos bloques cuadrados azules que forman la torre. Cada bloque azul cuenta como una pieza distinta.","CIRCLE YELLOW 2 0 2
+SQUARE BLUE 2 2 2
+SQUARE BLUE 2 4 2"
+ood_004,"Un pino de juguete: copa triangular verde tamaño 3 desde (1,0), tronco cuadrado rojo tamaño 1 justo debajo de la copa, con ancla en (2,3). Aparte, un sol circular amarillo de una casilla en la esquina superior derecha. Usá solamente esas tres piezas.","TRIANGLE GREEN 1 0 3
+CIRCLE YELLOW 5 0 1
+SQUARE RED 2 3 1"
+ood_005,"Para el árbol, colocá una copa circular verde de tamaño 3 en (1,0). El tronco se arma con dos cuadrados rojos de una casilla: el primero en (2,3) y el segundo inmediatamente debajo. Los cuadrados quedan fuera de la huella de la copa.","CIRCLE GREEN 1 0 3
+SQUARE RED 2 3 1
+SQUARE RED 2 4 1"
+ood_006,"Armá un robot sobre un pedestal, sin brazos ni rasgos interiores. Sus tres piezas son de tamaño 2 y se apilan desde (2,0), sin huecos y alineadas a la izquierda: cabeza circular amarilla, cuerpo cuadrado azul y pedestal cuadrado rojo.","CIRCLE YELLOW 2 0 2
+SQUARE BLUE 2 2 2
+SQUARE RED 2 4 2"
+ood_007,"Dibujá un cohete esquemático. La punta es un triángulo rojo 2×2 en (2,0); el fuselaje, un cuadrado azul 2×2 pegado debajo y alineado a la izquierda. Una chispa circular amarilla, tamaño 1, va justo debajo del fuselaje, también alineada por la izquierda.","TRIANGLE RED 2 0 2
+SQUARE BLUE 2 2 2
+CIRCLE YELLOW 2 4 1"
+ood_008,"Me gustaría un globo aerostático reducido a envolvente y canasta: círculo rojo tamaño 3 desde (1,0) y cuadrado azul tamaño 1 en (2,3). No agregues cuerdas. El tercer elemento será un sol circular amarillo de una celda en (5,0).","CIRCLE RED 1 0 3
+CIRCLE YELLOW 5 0 1
+SQUARE BLUE 2 3 1"
+ood_009,"Hacé un autito con carrocería cuadrada azul tamaño 2 desde (2,1). Las ruedas son dos círculos rojos de una casilla, colocados en (2,3) y (3,3), justo bajo la carrocería. No hacen falta ventanas ni otras piezas.","SQUARE BLUE 2 1 2
+CIRCLE RED 2 3 1
+CIRCLE RED 3 3 1"
+ood_010,"Un vagón geométrico de tres piezas: caja cuadrada verde 3×3 desde el origen y ruedas circulares azules de tamaño 1 en (0,3) y (2,3). Las ruedas quedan bajo los extremos izquierdo y derecho de la huella de la caja.","SQUARE GREEN 0 0 3
+CIRCLE BLUE 0 3 1
+CIRCLE BLUE 2 3 1"
+ood_011,"Construí un muñeco de nieve azul usando solamente tres círculos. Cabeza de tamaño 1 en (2,0), torso de tamaño 1 justo debajo y base de tamaño 3 desde (1,2). Las tres huellas se suceden verticalmente sin superposición.","CIRCLE BLUE 2 0 1
+CIRCLE BLUE 2 1 1
+CIRCLE BLUE 1 2 3"
+ood_012,"Quiero una oruga de tres segmentos circulares 2×2, pegados de izquierda a derecha y alineados por arriba en fila 2. El primero empieza en columna 0. Los colores, en ese orden, son verde, amarillo y verde. No dibujes patas ni ojos.","CIRCLE GREEN 0 2 2
+CIRCLE YELLOW 2 2 2
+CIRCLE GREEN 4 2 2"
+ood_013,"Una flor sin hojas: corola circular roja de tamaño 3 desde (1,0) y tallo hecho con dos cuadrados verdes tamaño 1, en (2,3) y justo debajo. Esa es toda la escena.","CIRCLE RED 1 0 3
+SQUARE GREEN 2 3 1
+SQUARE GREEN 2 4 1"
+ood_014,"Representá un velero con casco cuadrado azul 2×2 desde (1,3) y vela triangular roja 2×2 pegada encima, con el mismo borde izquierdo. No agregues mástil. En (5,0) poné un sol circular amarillo tamaño 1.","CIRCLE YELLOW 5 0 1
+TRIANGLE RED 1 1 2
+SQUARE BLUE 1 3 2"
+ood_015,"Armá un campamento mínimo. La carpa es un triángulo verde tamaño 3 desde (1,1). La alfombra exterior es un cuadrado azul tamaño 1 en (2,4), fuera de la carpa. Una luna circular amarilla, tamaño 1, ocupa (5,0).","CIRCLE YELLOW 5 0 1
+TRIANGLE GREEN 1 1 3
+SQUARE BLUE 2 4 1"
+ood_016,"Dibujá un semáforo sin carcasa ni poste: solo tres luces circulares de una casilla en columna 2. La roja empieza en fila 1, la amarilla va inmediatamente debajo de la roja y la verde inmediatamente debajo de la amarilla.","CIRCLE RED 2 1 1
+CIRCLE YELLOW 2 2 1
+CIRCLE GREEN 2 3 1"
+ood_017,"Un chupetín rojo con palito azul: círculo tamaño 3 desde (1,0) y dos cuadrados azules tamaño 1 apilados sin huecos desde (2,3), compartiendo columna. No hay envoltorio ni adornos adicionales.","CIRCLE RED 1 0 3
+SQUARE BLUE 2 3 1
+SQUARE BLUE 2 4 1"
+ood_018,"Poné una mancuerna de juguete formada por tres piezas de una celda en fila 2: peso circular azul en columna 1, agarre cuadrado rojo justo a su derecha y segundo peso circular azul justo a la derecha del agarre.","CIRCLE BLUE 1 2 1
+SQUARE RED 2 2 1
+CIRCLE BLUE 3 2 1"
+ood_019,"Hacé un puente abstracto con dos apoyos cuadrados rojos 2×2, anclados en (0,2) y (4,2). Entre ellos va un bloque cuadrado azul 2×2 desde (2,1), con el borde superior una fila más alto que el de los apoyos. Son exactamente tres bloques.","SQUARE BLUE 2 1 2
+SQUARE RED 0 2 2
+SQUARE RED 4 2 2"
+ood_020,"Un peón azul de tres piezas: cabeza circular tamaño 1 en (2,0), cuello cuadrado tamaño 1 inmediatamente debajo y base cuadrada tamaño 3 desde (1,2). Usá azul para los tres objetos y no agregues detalles internos.","CIRCLE BLUE 2 0 1
+SQUARE BLUE 2 1 1
+SQUARE BLUE 1 2 3"
+ood_021,"Quiero una torre de castillo roja, construida con un cuadrado de tamaño 3 desde (1,2). Encima van dos almenas cuadradas tamaño 1, en (1,1) y (3,1), dejando la casilla intermedia libre. No dibujes puerta ni ventanas.","SQUARE RED 1 1 1
+SQUARE RED 3 1 1
+SQUARE RED 1 2 3"
+ood_022,"Armá una planta en maceta con copa circular verde 2×2 en (2,0), tallo cuadrado verde tamaño 1 en (2,2) y maceta cuadrada roja 2×2 en (2,3). Las huellas se suceden de arriba abajo sin superponerse.","CIRCLE GREEN 2 0 2
+SQUARE GREEN 2 2 1
+SQUARE RED 2 3 2"
+ood_023,"Un trofeo geométrico sin asas: copa circular amarilla tamaño 2 desde (2,0), soporte cuadrado azul de una celda en (2,2) y pedestal cuadrado azul tamaño 2 desde (2,3). Alineá por la izquierda las tres huellas.","CIRCLE YELLOW 2 0 2
+SQUARE BLUE 2 2 1
+SQUARE BLUE 2 3 2"
+ood_024,"Hacé un hongo de tres piezas. La cabeza es un círculo rojo tamaño 3 desde (1,0); el pie se compone de dos cuadrados amarillos de una casilla, uno en (2,3) y otro justo debajo. No agregues puntos sobre la cabeza.","CIRCLE RED 1 0 3
+SQUARE YELLOW 2 3 1
+SQUARE YELLOW 2 4 1"
+ood_025,"Una cara sorprendida sin contorno: dos ojos circulares azules tamaño 1 en (1,1) y (4,1), y una boca circular roja tamaño 2 con ancla en (2,3). Solo esos ojos y esa boca, sin nariz ni fondo.","CIRCLE BLUE 1 1 1
+CIRCLE BLUE 4 1 1
+CIRCLE RED 2 3 2"
+ood_026,"Reservá un bloque 2×2 en cada esquina del tablero. El superior izquierdo contiene un cuadrado rojo, el superior derecho uno azul, el inferior izquierdo un triángulo verde y el inferior derecho un círculo amarillo. Son cuatro figuras de tamaño 2, todas dentro del tablero.","SQUARE RED 0 0 2
+SQUARE BLUE 4 0 2
+TRIANGLE GREEN 0 4 2
+CIRCLE YELLOW 4 4 2"
+ood_027,"Una diagonal de tres huellas 2×2: cuadrado rojo desde (0,0), cuadrado verde desde (2,2) y triángulo amarillo desde (4,4). Agregá un cuarto objeto, círculo azul de una celda, en la esquina superior derecha.","SQUARE RED 0 0 2
+CIRCLE BLUE 5 0 1
+SQUARE GREEN 2 2 2
+TRIANGLE YELLOW 4 4 2"
+ood_028,"La casilla (2,2) queda vacía. A dos casillas de ella, en cada dirección cardinal y sin desplazamiento lateral, poné círculos tamaño 1: rojo arriba, azul a la izquierda, verde a la derecha y amarillo abajo. No coloques figura en el centro.","CIRCLE RED 2 0 1
+CIRCLE BLUE 0 2 1
+CIRCLE GREEN 4 2 1
+CIRCLE YELLOW 2 4 1"
+ood_029,"Construí un mosaico 4×4 desde el origen usando cuatro cuadrados distintos, cada uno 2×2. En la hilera superior van rojo a la izquierda y azul a la derecha; en la inferior, verde a la izquierda y amarillo a la derecha. Las huellas son contiguas.","SQUARE RED 0 0 2
+SQUARE BLUE 2 0 2
+SQUARE GREEN 0 2 2
+SQUARE YELLOW 2 2 2"
+ood_030,"Apilá desde el origen, alineados por la izquierda y sin huecos, cuatro objetos: triángulo rojo tamaño 3, cuadrado verde tamaño 1, círculo azul tamaño 1 y triángulo amarillo tamaño 1. La pila llega hasta el borde inferior.","TRIANGLE RED 0 0 3
+SQUARE GREEN 0 3 1
+CIRCLE BLUE 0 4 1
+TRIANGLE YELLOW 0 5 1"
+ood_031,"El centro de esta cruz es un cuadrado rojo tamaño 1 en (2,2). A dos casillas de su ancla poné cuatro figuras también tamaño 1: círculo amarillo arriba, círculo azul a la izquierda, círculo verde a la derecha y triángulo amarillo abajo. Cada brazo conserva la fila o columna del centro.","CIRCLE YELLOW 2 0 1
+CIRCLE BLUE 0 2 1
+SQUARE RED 2 2 1
+CIRCLE GREEN 4 2 1
+TRIANGLE YELLOW 2 4 1"
+ood_032,"Quiero cinco círculos tamaño 1 seguidos sobre fila 2, comenzando en columna 0. Leídos de izquierda a derecha sus colores son amarillo, rojo, azul, verde y amarillo. La columna 5 de esa fila queda libre.","CIRCLE YELLOW 0 2 1
+CIRCLE RED 1 2 1
+CIRCLE BLUE 2 2 1
+CIRCLE GREEN 3 2 1
+CIRCLE YELLOW 4 2 1"
+ood_033,"Desde (0,0) dibujá un cuadrado azul 2×2. Pegado a su derecha y alineado arriba va un triángulo rojo tamaño 1; una casilla a la derecha de este, un triángulo amarillo tamaño 1. Inmediatamente debajo del amarillo apilá sin huecos un círculo verde tamaño 1 y luego uno rojo tamaño 1, en la misma columna.","SQUARE BLUE 0 0 2
+TRIANGLE RED 2 0 1
+TRIANGLE YELLOW 3 0 1
+CIRCLE GREEN 3 1 1
+CIRCLE RED 3 2 1"
+ood_034,"Ubicá un círculo amarillo 2×2 con ancla en (2,2). En cada una de las cuatro casillas de las esquinas del tablero poné un cuadrado verde tamaño 1. En total deben quedar cinco objetos.","SQUARE GREEN 0 0 1
+SQUARE GREEN 5 0 1
+CIRCLE YELLOW 2 2 2
+SQUARE GREEN 0 5 1
+SQUARE GREEN 5 5 1"
+ood_035,"Cinco objetos de tamaño 1 siguen una diagonal desde el origen, avanzando cada vez una columna a la derecha y una fila abajo. En orden: cuadrado rojo, círculo azul, triángulo amarillo, cuadrado verde y círculo rojo. No prolongues la diagonal con una sexta pieza.","SQUARE RED 0 0 1
+CIRCLE BLUE 1 1 1
+TRIANGLE YELLOW 2 2 1
+SQUARE GREEN 3 3 1
+CIRCLE RED 4 4 1"
+ood_036,"En fila de inicio 0, desde columnas 0, 2 y 4, colocá círculo rojo, cuadrado verde y triángulo azul. En fila de inicio 4, desde esas mismas columnas, van triángulo amarillo, círculo azul y cuadrado rojo. Las seis huellas son 2×2; las filas 2 y 3 quedan libres.","CIRCLE RED 0 0 2
+SQUARE GREEN 2 0 2
+TRIANGLE BLUE 4 0 2
+TRIANGLE YELLOW 0 4 2
+CIRCLE BLUE 2 4 2
+SQUARE RED 4 4 2"
+ood_037,"Dos hileras de tres círculos tamaño 1, ocupando columnas 1, 2 y 3. La fila superior es la 1 y sus colores son rojo, azul y verde de izquierda a derecha. La otra hilera está en fila 4 y lleva amarillo, rojo y azul en ese mismo orden.","CIRCLE RED 1 1 1
+CIRCLE BLUE 2 1 1
+CIRCLE GREEN 3 1 1
+CIRCLE YELLOW 1 4 1
+CIRCLE RED 2 4 1
+CIRCLE BLUE 3 4 1"
+ood_038,"Poné un cuadrado amarillo 2×2 desde (2,2). Agregá cuatro triángulos tamaño 1 en las esquinas: rojo arriba a la izquierda, verde arriba a la derecha, azul abajo a la izquierda y amarillo abajo a la derecha. El sexto objeto es un círculo rojo tamaño 1 en (2,0).","TRIANGLE RED 0 0 1
+CIRCLE RED 2 0 1
+TRIANGLE GREEN 5 0 1
+SQUARE YELLOW 2 2 2
+TRIANGLE BLUE 0 5 1
+TRIANGLE YELLOW 5 5 1"
+ood_039,"Dibujá seis figuras de una casilla en zigzag. Empezá en (0,5), avanzá una columna a la derecha en cada paso y alterná entre filas 5 y 4. La secuencia es cuadrado azul, círculo rojo, triángulo amarillo, cuadrado verde, círculo azul y triángulo rojo.","CIRCLE RED 1 4 1
+SQUARE GREEN 3 4 1
+TRIANGLE RED 5 4 1
+SQUARE BLUE 0 5 1
+TRIANGLE YELLOW 2 5 1
+CIRCLE BLUE 4 5 1"
+ood_040,"En columna 1 ubicá cuadrados verdes tamaño 1 en filas 0, 2 y 4. Repetí exactamente ese patrón en columna 4, con las mismas filas, figura, color y tamaño. Tienen que quedar seis cuadrados.","SQUARE GREEN 1 0 1
+SQUARE GREEN 4 0 1
+SQUARE GREEN 1 2 1
+SQUARE GREEN 4 2 1
+SQUARE GREEN 1 4 1
+SQUARE GREEN 4 4 1"
+ood_041,"Hacé un marco de ocho piezas, todas tamaño 1. Las cuatro esquinas llevan cuadrados rojos. Completá con círculos azules en (2,0), (0,2), (5,2) y (2,5). No hay figura en el interior del marco.","SQUARE RED 0 0 1
+CIRCLE BLUE 2 0 1
+SQUARE RED 5 0 1
+CIRCLE BLUE 0 2 1
+CIRCLE BLUE 5 2 1
+SQUARE RED 0 5 1
+CIRCLE BLUE 2 5 1
+SQUARE RED 5 5 1"
+ood_042,"Dividí mentalmente el tablero en nueve bloques 2×2 y dejá vacío el central, que comienza en (2,2). En la hilera superior, de izquierda a derecha, van cuadrado rojo, círculo azul y triángulo verde. En la hilera intermedia, triángulo amarillo a la izquierda y cuadrado amarillo a la derecha. En la inferior, círculo verde, triángulo rojo y cuadrado azul. Todos los objetos son tamaño 2.","SQUARE RED 0 0 2
+CIRCLE BLUE 2 0 2
+TRIANGLE GREEN 4 0 2
+TRIANGLE YELLOW 0 2 2
+SQUARE YELLOW 4 2 2
+CIRCLE GREEN 0 4 2
+TRIANGLE RED 2 4 2
+SQUARE BLUE 4 4 2"
+ood_043,"Ocupá las filas 1 y 2, columnas 1 a 4, con figuras tamaño 1. Alterná cuadrados rojos y círculos azules en cada fila: en (1,1) empieza un cuadrado rojo y en (1,2) empieza un círculo azul. Las dos filas tienen cuatro piezas cada una y colores alternados como un damero.","SQUARE RED 1 1 1
+CIRCLE BLUE 2 1 1
+SQUARE RED 3 1 1
+CIRCLE BLUE 4 1 1
+CIRCLE BLUE 1 2 1
+SQUARE RED 2 2 1
+CIRCLE BLUE 3 2 1
+SQUARE RED 4 2 1"
+ood_044,"Dos diagonales de cuatro triángulos tamaño 1 cada una. La roja parte del origen y baja una fila y avanza una columna a la derecha por paso. La azul parte de (5,0) y baja una fila y avanza una columna a la izquierda por paso. Dibujá solo esos ocho triángulos.","TRIANGLE RED 0 0 1
+TRIANGLE BLUE 5 0 1
+TRIANGLE RED 1 1 1
+TRIANGLE BLUE 4 1 1
+TRIANGLE RED 2 2 1
+TRIANGLE BLUE 3 2 1
+TRIANGLE BLUE 2 3 1
+TRIANGLE RED 3 3 1"
+ood_045,"Ocupá todas las columnas de fila 0 con seis círculos rojos de una casilla. Debajo de esa banda, colocá dos cuadrados 2×2: azul desde (0,2) y verde desde (4,2). Quedan ocho objetos y la fila 1 está libre.","CIRCLE RED 0 0 1
+CIRCLE RED 1 0 1
+CIRCLE RED 2 0 1
+CIRCLE RED 3 0 1
+CIRCLE RED 4 0 1
+CIRCLE RED 5 0 1
+SQUARE BLUE 0 2 2
+SQUARE GREEN 4 2 2"
+ood_046,"Sobre el borde superior quiero seis círculos amarillos tamaño 1, uno en cada columna. En la fila inferior poné cuatro cuadrados azules tamaño 1, ocupando únicamente las columnas 1, 2, 3 y 4. No agregues cuadrados en las esquinas inferiores.","CIRCLE YELLOW 0 0 1
+CIRCLE YELLOW 1 0 1
+CIRCLE YELLOW 2 0 1
+CIRCLE YELLOW 3 0 1
+CIRCLE YELLOW 4 0 1
+CIRCLE YELLOW 5 0 1
+SQUARE BLUE 1 5 1
+SQUARE BLUE 2 5 1
+SQUARE BLUE 3 5 1
+SQUARE BLUE 4 5 1"
+ood_047,"Dibujá cinco triángulos rojos tamaño 1 en columna 0, empezando en fila 0 y sin dejar huecos hacia abajo. En columna 5 poné cinco cuadrados verdes tamaño 1, también consecutivos, pero empezando en fila 1. Las dos columnas quedan desfasadas una fila.","TRIANGLE RED 0 0 1
+TRIANGLE RED 0 1 1
+SQUARE GREEN 5 1 1
+TRIANGLE RED 0 2 1
+SQUARE GREEN 5 2 1
+TRIANGLE RED 0 3 1
+SQUARE GREEN 5 3 1
+TRIANGLE RED 0 4 1
+SQUARE GREEN 5 4 1
+SQUARE GREEN 5 5 1"
+ood_048,"Recorré una espiral de nueve casillas desde (0,0). Los ocho movimientos, todos de una casilla, son derecha, derecha, abajo, abajo, izquierda, izquierda, arriba y derecha. En las nueve posiciones del recorrido poné, en orden, cuadrado rojo, círculo azul, triángulo amarillo, cuadrado verde, círculo rojo, triángulo azul, cuadrado amarillo, círculo verde y triángulo rojo; todos tamaño 1. Aparte, un círculo azul 2×2 comienza en (4,4).","SQUARE RED 0 0 1
+CIRCLE BLUE 1 0 1
+TRIANGLE YELLOW 2 0 1
+CIRCLE GREEN 0 1 1
+TRIANGLE RED 1 1 1
+SQUARE GREEN 2 1 1
+SQUARE YELLOW 0 2 1
+TRIANGLE BLUE 1 2 1
+CIRCLE RED 2 2 1
+CIRCLE BLUE 4 4 2"
+ood_049,"Construí tres hileras de cuatro figuras tamaño 1 en las filas 0, 2 y 4, usando columnas 1 a 4. En cada hilera la secuencia de formas es círculo, cuadrado, triángulo, círculo. Toda la fila 0 es roja, toda la fila 2 azul y toda la fila 4 verde. Las demás casillas quedan libres.","CIRCLE RED 1 0 1
+SQUARE RED 2 0 1
+TRIANGLE RED 3 0 1
+CIRCLE RED 4 0 1
+CIRCLE BLUE 1 2 1
+SQUARE BLUE 2 2 1
+TRIANGLE BLUE 3 2 1
+CIRCLE BLUE 4 2 1
+CIRCLE GREEN 1 4 1
+SQUARE GREEN 2 4 1
+TRIANGLE GREEN 3 4 1
+CIRCLE GREEN 4 4 1"
+ood_050,"En el panel hay un cuadrado amarillo 2×2 desde (2,2) y once indicadores tamaño 1. Cuatro son triángulos rojos en fila 0, columnas 0, 2, 4 y 5; otros cuatro son triángulos azules en fila 5, columnas 0, 1, 3 y 5. Los tres restantes son círculos: verde en (0,2), rojo en (5,2) y azul en (0,4).","TRIANGLE RED 0 0 1
+TRIANGLE RED 2 0 1
+TRIANGLE RED 4 0 1
+TRIANGLE RED 5 0 1
+CIRCLE GREEN 0 2 1
+SQUARE YELLOW 2 2 2
+CIRCLE RED 5 2 1
+CIRCLE BLUE 0 4 1
+TRIANGLE BLUE 0 5 1
+TRIANGLE BLUE 1 5 1
+TRIANGLE BLUE 3 5 1
+TRIANGLE BLUE 5 5 1"

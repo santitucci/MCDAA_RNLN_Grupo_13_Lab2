@@ -1,0 +1,18 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv-win/Scripts/python.exe",
+    "python.venvFolders": [
+        ".venv-win",
+        ".venv"
+    ],
+    "python.terminal.activateEnvironment": true,
+    "notebook.kernelProviderAssociations": [
+        {
+            "viewType": "jupyter-notebook",
+            "provider": "jupyter"
+        }
+    ]
+}

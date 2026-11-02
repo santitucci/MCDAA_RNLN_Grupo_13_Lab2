@@ -1,0 +1,277 @@
+id,instruccion,programa
+size_scene_0483,"Poné un círculo azul 2×2 en (1,0). Justo a la derecha y alineado arriba, un triángulo azul 2×2.","CIRCLE BLUE 1 0 2
+TRIANGLE BLUE 3 0 2"
+size_scene_0067,"Círculo azul 4×4 en el origen, triángulo rojo tamaño 1 en (4,4) y círculo azul tamaño 1 en (5,5).","CIRCLE BLUE 0 0 4
+TRIANGLE RED 4 4 1
+CIRCLE BLUE 5 5 1"
+size_scene_1165,"Un triángulo amarillo 2×2 empieza en (0,3). Pegado a su derecha, con el borde superior alineado, va un círculo amarillo 3×3.","TRIANGLE YELLOW 0 3 2
+CIRCLE YELLOW 2 3 3"
+size_scene_0494,"Triángulos amarillos, tamaño 3 en (1,1) y tamaño 1 en (4,4). Triángulo rojo tamaño 1 en (5,5).","TRIANGLE YELLOW 1 1 3
+TRIANGLE YELLOW 4 4 1
+TRIANGLE RED 5 5 1"
+size_scene_0690,"Me gustaría un cuadrado verde tamaño 1 en (1,2), un triángulo azul tamaño 1 en (2,3) y un cuadrado rojo tamaño 2 desde (3,4).","SQUARE GREEN 1 2 1
+TRIANGLE BLUE 2 3 1
+SQUARE RED 3 4 2"
+size_scene_0802,"Cuadrado azul tamaño 1 en (1,2); justo debajo, con el mismo borde izquierdo, triángulo amarillo tamaño 3.","SQUARE BLUE 1 2 1
+TRIANGLE YELLOW 1 3 3"
+size_scene_0220,"Las tres figuras son 2×2. Anclá un cuadrado verde en (0,2), pegá un triángulo amarillo a su derecha alineado arriba y uno rojo debajo del cuadrado alineado a la izquierda.","SQUARE GREEN 0 2 2
+TRIANGLE YELLOW 2 2 2
+TRIANGLE RED 0 4 2"
+size_scene_0010,"Juntá tres huellas por sus costados, todas con ancla en fila 3: cuadrado verde tamaño 1 en columna 0, triángulo rojo tamaño 2 en columna 1 y círculo amarillo tamaño 3 en columna 3.","SQUARE GREEN 0 3 1
+TRIANGLE RED 1 3 2
+CIRCLE YELLOW 3 3 3"
+size_scene_0500,"Partí de un triángulo verde 2×2 en (1,1). El cuadrado azul 2×2 empieza en (3,3), y el círculo rojo, de una casilla, en (5,5).","TRIANGLE GREEN 1 1 2
+SQUARE BLUE 3 3 2
+CIRCLE RED 5 5 1"
+size_scene_0990,"Un cuadrado amarillo tamaño 2 desde (1,2).",SQUARE YELLOW 1 2 2
+size_scene_0283,"Dos figuras tamaño 1, cuadrado azul en (3,1) y círculo amarillo justo a su derecha.","SQUARE BLUE 3 1 1
+CIRCLE YELLOW 4 1 1"
+size_scene_0943,"Triángulo amarillo tamaño 1 en (1,0), verde tamaño 3 desde (3,2).","TRIANGLE YELLOW 1 0 1
+TRIANGLE GREEN 3 2 3"
+size_scene_0820,"Cuadrado amarillo y cuadrado verde, tamaño 2, desde (0,1) y (3,4).","SQUARE YELLOW 0 1 2
+SQUARE GREEN 3 4 2"
+size_scene_0958,"Triángulo verde tamaño 1 en (0,1), cuadrado rojo tamaño 3 debajo, con igual borde izquierdo y ancla en fila 2.","TRIANGLE GREEN 0 1 1
+SQUARE RED 0 2 3"
+size_scene_0040,"Ubicá un triángulo amarillo 3×3 en (0,1). Pegado a su derecha, alineado arriba, va un cuadrado amarillo 2×2. Pegado debajo del triángulo y alineado a la izquierda, un círculo verde tamaño 1.","TRIANGLE YELLOW 0 1 3
+SQUARE YELLOW 3 1 2
+CIRCLE GREEN 0 4 1"
+size_scene_0174,"Cuadrado rojo de una casilla en el origen y cuadrado azul 3×3 desde (2,2).","SQUARE RED 0 0 1
+SQUARE BLUE 2 2 3"
+size_scene_0367,"Triángulo rojo tamaño 1 en (3,1); azul tamaño 2 desde (4,1).","TRIANGLE RED 3 1 1
+TRIANGLE BLUE 4 1 2"
+size_scene_0819,"Triángulo amarillo 3×3 desde (0,1), verde 2×2 desde (3,4).","TRIANGLE YELLOW 0 1 3
+TRIANGLE GREEN 3 4 2"
+size_scene_0625,"Dibujá un triángulo amarillo 2×2 en (1,0). El cuadrado rojo también ocupa 2×2 y tiene su ancla dos columnas a la derecha y dos filas debajo de la del triángulo.","TRIANGLE YELLOW 1 0 2
+SQUARE RED 3 2 2"
+size_scene_0878,"Triángulo amarillo tamaño 1 en (0,1), triángulo verde tamaño 2 en (1,2), círculo rojo tamaño 2 en (3,4).","TRIANGLE YELLOW 0 1 1
+TRIANGLE GREEN 1 2 2
+CIRCLE RED 3 4 2"
+size_scene_0399,"Cuadrado rojo 3×3 en el origen, amarillo tamaño 1 en (3,0), amarillo 3×3 en (0,3).","SQUARE RED 0 0 3
+SQUARE YELLOW 3 0 1
+SQUARE YELLOW 0 3 3"
+size_scene_0736,"Cuadrado rojo tamaño 1 en (2,1), cuadrado azul tamaño 3 en (3,1), círculo azul tamaño 2 en (2,4).","SQUARE RED 2 1 1
+SQUARE BLUE 3 1 3
+CIRCLE BLUE 2 4 2"
+size_scene_1047,"Cuadrado rojo tamaño 3 en (0,1), cuadrado azul tamaño 1 en (4,1).","SQUARE RED 0 1 3
+SQUARE BLUE 4 1 1"
+size_scene_0422,"Poné un círculo rojo tamaño 1 en (1,1), un cuadrado azul tamaño 2 en (1,3).","CIRCLE RED 1 1 1
+SQUARE BLUE 1 3 2"
+size_scene_0491,"Un cuadrado rojo tamaño 1 en (2,0), un círculo verde tamaño 3 en (3,1).","SQUARE RED 2 0 1
+CIRCLE GREEN 3 1 3"
+size_scene_0302,"Poné un triángulo amarillo tamaño 1 en (2,1) y un círculo rojo tamaño 2 en (2,3).","TRIANGLE YELLOW 2 1 1
+CIRCLE RED 2 3 2"
+size_scene_0478,"Círculo azul 2×2 en (4,1), triángulo verde 3×3 en (2,3), cuadrado rojo tamaño 1 en (0,2).","CIRCLE BLUE 4 1 2
+SQUARE RED 0 2 1
+TRIANGLE GREEN 2 3 3"
+size_scene_0762,"En columna 1 apilá desde fila 0 cuadrado azul tamaño 2, triángulo amarillo tamaño 2 y cuadrado azul tamaño 1, alineados a la izquierda sin huecos.","SQUARE BLUE 1 0 2
+TRIANGLE YELLOW 1 2 2
+SQUARE BLUE 1 4 1"
+size_scene_0998,"Círculo rojo y triángulo rojo, tamaño 1, en (2,0) y (3,0).","CIRCLE RED 2 0 1
+TRIANGLE RED 3 0 1"
+size_scene_1082,"En fila 2, triángulo amarillo en columna 4 y verde en columna 5, tamaño 1 para ambos.","TRIANGLE YELLOW 4 2 1
+TRIANGLE GREEN 5 2 1"
+size_scene_0171,"Triángulos azules con anclas en fila 4: tamaño 1 en columna 1, tamaño 2 en columna 3 y tamaño 1 en columna 5.","TRIANGLE BLUE 1 4 1
+TRIANGLE BLUE 3 4 2
+TRIANGLE BLUE 5 4 1"
+size_scene_0847,"Todo tamaño 1: círculo azul en (0,1), cuadrado verde justo a la derecha y otro verde justo debajo del círculo.","CIRCLE BLUE 0 1 1
+SQUARE GREEN 1 1 1
+SQUARE GREEN 0 2 1"
+size_scene_0254,"Quiero un triángulo verde tamaño 2 en (4,0).",TRIANGLE GREEN 4 0 2
+size_scene_0393,"Un círculo rojo de huella 3×3 en (3,2).",CIRCLE RED 3 2 3
+size_scene_0488,"Círculo azul, triángulo rojo y cuadrado azul, todos tamaño 1, en (3,1), (2,3) y (0,5), respectivamente.","CIRCLE BLUE 3 1 1
+TRIANGLE RED 2 3 1
+SQUARE BLUE 0 5 1"
+size_scene_0564,"Círculo verde en el origen y cuadrado rojo justo a la derecha, ambos tamaño 1.","CIRCLE GREEN 0 0 1
+SQUARE RED 1 0 1"
+size_scene_1013,"Triángulo azul tamaño 2 en (0,1), círculo amarillo tamaño 2 en (2,1), triángulo rojo tamaño 1 en (0,3).","TRIANGLE BLUE 0 1 2
+CIRCLE YELLOW 2 1 2
+TRIANGLE RED 0 3 1"
+size_scene_0272,"Cuadrados rojos, tamaño 2 en (2,0) y tamaño 3 en (0,2).","SQUARE RED 2 0 2
+SQUARE RED 0 2 3"
+size_scene_0280,"Poné un triángulo azul 2×2 en (4,1). Agregá cuadrados rojos tamaño 1 en (2,3) y (0,5), con sus anclas sobre la misma diagonal descendente hacia la izquierda.","TRIANGLE BLUE 4 1 2
+SQUARE RED 2 3 1
+SQUARE RED 0 5 1"
+size_scene_1171,"Un círculo rojo tamaño 3 desde (1,1).",CIRCLE RED 1 1 3
+size_scene_0700,"Poné un cuadrado azul tamaño 1 en (1,1). A su derecha, dejando una columna libre y alineando los bordes superiores, colocá otro azul 2×2.","SQUARE BLUE 1 1 1
+SQUARE BLUE 3 1 2"
+size_scene_0679,"Dibujá un cuadrado amarillo tamaño 6, anclado en el origen, que ocupe todo el tablero.",SQUARE YELLOW 0 0 6
+size_scene_0402,"Quiero un círculo amarillo 3×3 desde (0,1) y un triángulo azul de una celda en (3,0).","TRIANGLE BLUE 3 0 1
+CIRCLE YELLOW 0 1 3"
+size_scene_1128,"Desde (2,0), apilá sin huecos y alineados por la izquierda cuadrado verde tamaño 1, triángulo azul tamaño 2, círculo amarillo tamaño 3.","SQUARE GREEN 2 0 1
+TRIANGLE BLUE 2 1 2
+CIRCLE YELLOW 2 3 3"
+size_scene_0368,"Círculo verde 2×2 en (3,3), círculo rojo de una casilla en la esquina inferior derecha.","CIRCLE GREEN 3 3 2
+CIRCLE RED 5 5 1"
+size_scene_0916,"Sobre el borde inferior juntá círculo verde 2×2 desde (0,4) y cuadrado rojo 2×2 desde (2,4).","CIRCLE GREEN 0 4 2
+SQUARE RED 2 4 2"
+size_scene_1144,"En columna 0, círculo amarillo tamaño 2 desde fila 0, cuadrado amarillo tamaño 1 en fila 3, triángulo amarillo tamaño 1 en fila 4.","CIRCLE YELLOW 0 0 2
+SQUARE YELLOW 0 3 1
+TRIANGLE YELLOW 0 4 1"
+size_scene_0097,"Triángulo azul tamaño 4 en (2,1). Arriba, triángulo azul tamaño 1 en (2,0) y círculo rojo tamaño 1 en (3,0).","TRIANGLE BLUE 2 0 1
+CIRCLE RED 3 0 1
+TRIANGLE BLUE 2 1 4"
+size_scene_0557,"Círculo azul 3×3 en (1,1), círculo verde 2×2 en (4,1), cuadrado rojo tamaño 1 en (1,4).","CIRCLE BLUE 1 1 3
+CIRCLE GREEN 4 1 2
+SQUARE RED 1 4 1"
+size_scene_1067,"Triángulo verde 2×2 en (3,2), cuadrado amarillo tamaño 1 en (5,4).","TRIANGLE GREEN 3 2 2
+SQUARE YELLOW 5 4 1"
+size_scene_0948,"Círculo verde tamaño 1 en (0,3), triángulo verde tamaño 2 en (2,4), cuadrado verde tamaño 1 en (4,4).","CIRCLE GREEN 0 3 1
+TRIANGLE GREEN 2 4 2
+SQUARE GREEN 4 4 1"
+size_scene_0941,"Todo verde: círculo 2×2 en (1,1), cuadrado 2×2 en (3,3), triángulo tamaño 1 en (5,5).","CIRCLE GREEN 1 1 2
+SQUARE GREEN 3 3 2
+TRIANGLE GREEN 5 5 1"
+size_scene_0836,"Círculo verde tamaño 4, anclado en (2,1).",CIRCLE GREEN 2 1 4
+size_scene_0632,"Un cuadrado verde tamaño 3 anclado en (2,0).",SQUARE GREEN 2 0 3
+size_scene_1076,"Un cuadrado azul tamaño 4 desde (1,0).",SQUARE BLUE 1 0 4
+size_scene_0834,"Alineados por arriba en fila 1: cuadrado verde 2×2 desde columna 0, amarillo tamaño 1 desde columna 2, círculo azul 2×2 desde columna 3.","SQUARE GREEN 0 1 2
+SQUARE YELLOW 2 1 1
+CIRCLE BLUE 3 1 2"
+size_scene_0503,"Cuadrado azul tamaño 2 desde (4,1), círculo azul tamaño 2 desde (3,3).","SQUARE BLUE 4 1 2
+CIRCLE BLUE 3 3 2"
+size_scene_0533,"Todos tamaño 1 y en fila 1: triángulo azul en columna 0, cuadrado verde en columna 1, triángulo verde en columna 3.","TRIANGLE BLUE 0 1 1
+SQUARE GREEN 1 1 1
+TRIANGLE GREEN 3 1 1"
+size_scene_0975,"Un círculo amarillo tamaño 1 en (1,4).",CIRCLE YELLOW 1 4 1
+size_scene_0129,"En (2,2) va un triángulo rojo tamaño 1; debajo, con igual columna inicial, uno azul tamaño 2.","TRIANGLE RED 2 2 1
+TRIANGLE BLUE 2 3 2"
+size_scene_0505,"Círculo azul 2×2 y cuadrado amarillo 2×2 sobre el borde inferior, con anclas (1,4) y (3,4).","CIRCLE BLUE 1 4 2
+SQUARE YELLOW 3 4 2"
+size_scene_1133,Cuadrado amarillo 2×2 desde el origen; círculo azul 2×2 inmediatamente a su derecha y alineado arriba.,"SQUARE YELLOW 0 0 2
+CIRCLE BLUE 2 0 2"
+size_scene_0179,"Dos círculos de una celda: amarillo en (3,1), rojo en (4,2).","CIRCLE YELLOW 3 1 1
+CIRCLE RED 4 2 1"
+size_scene_0897,"Triángulos verde y azul tamaño 3, apilados desde (2,0) y (2,3). Círculo amarillo tamaño 1 en (5,5).","TRIANGLE GREEN 2 0 3
+TRIANGLE BLUE 2 3 3
+CIRCLE YELLOW 5 5 1"
+size_scene_1073,En columna inicial 4 van triángulo rojo tamaño 2 desde fila 0 y círculo rojo tamaño 2 desde fila 3.,"TRIANGLE RED 4 0 2
+CIRCLE RED 4 3 2"
+size_scene_0143,"Círculo verde tamaño 1 en (3,1), cuadrado amarillo tamaño 2 en (4,1), cuadrado azul tamaño 2 en (3,3).","CIRCLE GREEN 3 1 1
+SQUARE YELLOW 4 1 2
+SQUARE BLUE 3 3 2"
+size_scene_1077,"Círculo verde tamaño 1 en (2,1), cuadrado rojo tamaño 2 en (0,3), cuadrado verde tamaño 2 en (2,4).","CIRCLE GREEN 2 1 1
+SQUARE RED 0 3 2
+SQUARE GREEN 2 4 2"
+size_scene_0397,"Triángulo verde tamaño 2 anclado en (0,4).",TRIANGLE GREEN 0 4 2
+size_scene_0580,"Anclá un círculo amarillo 2×2 en (1,0). A su derecha inmediata, alineado arriba, cuadrado azul tamaño 1; bajo el círculo, sin hueco y alineado a la izquierda, cuadrado verde tamaño 3.","CIRCLE YELLOW 1 0 2
+SQUARE BLUE 3 0 1
+SQUARE GREEN 1 2 3"
+size_scene_0293,"Ubicá un triángulo amarillo tamaño 2 en (4,0).",TRIANGLE YELLOW 4 0 2
+size_scene_0588,"Cuadrado azul tamaño 1 en (1,1), círculo amarillo tamaño 2 desde (2,1).","SQUARE BLUE 1 1 1
+CIRCLE YELLOW 2 1 2"
+size_scene_0463,"Cuadrado verde tamaño 3 en (2,0); círculo azul tamaño 1 en (4,3).","SQUARE GREEN 2 0 3
+CIRCLE BLUE 4 3 1"
+size_scene_0151,"Triángulo amarillo tamaño 3 que empiece en (0,3).",TRIANGLE YELLOW 0 3 3
+size_scene_0486,"Triángulo amarillo tamaño 3 desde (0,2), círculo azul tamaño 1 en (3,5).","TRIANGLE YELLOW 0 2 3
+CIRCLE BLUE 3 5 1"
+size_scene_0481,"Triángulos amarillos: tamaño 1 en (0,1), tamaño 1 en (1,2), tamaño 3 desde (2,3).","TRIANGLE YELLOW 0 1 1
+TRIANGLE YELLOW 1 2 1
+TRIANGLE YELLOW 2 3 3"
+size_scene_1132,"Triángulo amarillo tamaño 2 en (1,0), rojo tamaño 1 en (3,0), cuadrado rojo tamaño 3 desde (1,2).","TRIANGLE YELLOW 1 0 2
+TRIANGLE RED 3 0 1
+SQUARE RED 1 2 3"
+size_scene_1169,"Dos triángulos verdes 3×3 con borde superior en fila 3, anclados en columnas 0 y 3.","TRIANGLE GREEN 0 3 3
+TRIANGLE GREEN 3 3 3"
+size_scene_0287,"En columna 2, cuadrado azul tamaño 2 desde fila 0, otro azul tamaño 1 en fila 2 y cuadrado verde tamaño 3 desde fila 3.","SQUARE BLUE 2 0 2
+SQUARE BLUE 2 2 1
+SQUARE GREEN 2 3 3"
+size_scene_0182,"Cuadrado rojo 2×2 en (2,2) y triángulo rojo 2×2 en (4,4).","SQUARE RED 2 2 2
+TRIANGLE RED 4 4 2"
+size_scene_0045,"Quiero un círculo amarillo que reserve 4×4 desde el origen. El otro objeto será un círculo rojo de una casilla, colocado en la esquina inferior derecha.","CIRCLE YELLOW 0 0 4
+CIRCLE RED 5 5 1"
+size_scene_0004,"Quiero un triángulo verde 4×4 con esquina en (2,2) y un cuadrado amarillo 2×2 en (4,0).","SQUARE YELLOW 4 0 2
+TRIANGLE GREEN 2 2 4"
+size_scene_0749,"Un cuadrado amarillo tamaño 5 desde (1,1).",SQUARE YELLOW 1 1 5
+size_scene_0357,"Cuadrados tamaño 2, amarillo en el origen y verde en (2,2). Agregá círculo rojo tamaño 1 en (4,4).","SQUARE YELLOW 0 0 2
+SQUARE GREEN 2 2 2
+CIRCLE RED 4 4 1"
+size_scene_0348,"Triángulo azul tamaño 1 en (3,0), cuadrado amarillo tamaño 2 en (4,0), cuadrado rojo tamaño 3 en (3,2).","TRIANGLE BLUE 3 0 1
+SQUARE YELLOW 4 0 2
+SQUARE RED 3 2 3"
+size_scene_1134,"Anclas en columna 2, sin huecos desde fila 0: cuadrado rojo tamaño 2, círculo rojo tamaño 1 y triángulo azul tamaño 3.","SQUARE RED 2 0 2
+CIRCLE RED 2 2 1
+TRIANGLE BLUE 2 3 3"
+size_scene_1104,"Columna inicial 3, sin huecos desde fila 0: cuadrado verde tamaño 2, círculo azul tamaño 2, triángulo azul tamaño 1.","SQUARE GREEN 3 0 2
+CIRCLE BLUE 3 2 2
+TRIANGLE BLUE 3 4 1"
+size_scene_0124,"El triángulo rojo será tamaño 3, anclado en (0,1). El círculo verde, tamaño 1 en (3,3).","TRIANGLE RED 0 1 3
+CIRCLE GREEN 3 3 1"
+size_scene_0228,"Dos triángulos amarillos 2×2, anclados en (2,0) y (4,2).","TRIANGLE YELLOW 2 0 2
+TRIANGLE YELLOW 4 2 2"
+size_scene_0119,"Desde el origen, cuadrado rojo 4×4. En columna 0, filas 4 y 5, agregá respectivamente círculo azul y triángulo amarillo, ambos tamaño 1.","SQUARE RED 0 0 4
+CIRCLE BLUE 0 4 1
+TRIANGLE YELLOW 0 5 1"
+size_scene_0009,"Desde (0,3), cuadrado rojo tamaño 3. En esa fila, columnas 3 y 4, van triángulo amarillo y círculo rojo, ambos tamaño 1.","SQUARE RED 0 3 3
+TRIANGLE YELLOW 3 3 1
+CIRCLE RED 4 3 1"
+size_scene_1141,"Círculo verde tamaño 2 desde (3,0).",CIRCLE GREEN 3 0 2
+size_scene_0993,"Tres huellas 2×2: triángulo rojo en (0,1), círculo verde en (0,3), triángulo verde en (4,3).","TRIANGLE RED 0 1 2
+CIRCLE GREEN 0 3 2
+TRIANGLE GREEN 4 3 2"
+size_scene_0219,"Triángulo amarillo tamaño 1 en (1,1), cuadrado rojo tamaño 1 en (2,2), círculo amarillo tamaño 2 en (4,4).","TRIANGLE YELLOW 1 1 1
+SQUARE RED 2 2 1
+CIRCLE YELLOW 4 4 2"
+size_scene_0414,"Triángulo azul 3×3 en el origen, cuadrado rojo 3×3 desde (3,3).","TRIANGLE BLUE 0 0 3
+SQUARE RED 3 3 3"
+size_scene_0874,"Un círculo rojo tamaño 2 desde (3,2).",CIRCLE RED 3 2 2
+size_scene_0002,"Todo azul: triángulo 4×4 en el origen, cuadrado 2×2 en (4,0) y cuadrado de una casilla en (0,4).","TRIANGLE BLUE 0 0 4
+SQUARE BLUE 4 0 2
+SQUARE BLUE 0 4 1"
+size_scene_0031,"Un triángulo rojo 3×3 en (0,1), junto a un círculo verde tamaño 1 en (3,1).","TRIANGLE RED 0 1 3
+CIRCLE GREEN 3 1 1"
+size_scene_0291,"Triángulo rojo de una casilla en (0,3), cuadrado rojo de una casilla en (1,4).","TRIANGLE RED 0 3 1
+SQUARE RED 1 4 1"
+size_scene_0317,"Triángulo verde tamaño 2 desde (3,2), círculo rojo tamaño 1 en (5,2), cuadrado azul tamaño 2 desde (3,4).","TRIANGLE GREEN 3 2 2
+CIRCLE RED 5 2 1
+SQUARE BLUE 3 4 2"
+size_scene_0340,Dibujá un triángulo verde tamaño 4 desde el origen.,TRIANGLE GREEN 0 0 4
+size_scene_0965,"Dibujá un círculo verde 3×3 en (1,0). A su derecha inmediata y alineado arriba, ubicá un cuadrado verde 2×2.","CIRCLE GREEN 1 0 3
+SQUARE GREEN 4 0 2"
+size_scene_0041,"En columna 4, círculo verde tamaño 1 en fila 1, triángulo verde tamaño 2 desde fila 2 y círculo verde tamaño 2 desde fila 4.","CIRCLE GREEN 4 1 1
+TRIANGLE GREEN 4 2 2
+CIRCLE GREEN 4 4 2"
+size_scene_0275,"Ubicá un cuadrado azul de una celda en (1,1). A su derecha y alineado arriba, un cuadrado rojo 3×3. El círculo azul, de una celda, ocupa (1,4).","SQUARE BLUE 1 1 1
+SQUARE RED 2 1 3
+CIRCLE BLUE 1 4 1"
+size_scene_0764,"Triángulo rojo tamaño 1 en (1,1), círculo verde tamaño 3 en (2,2), cuadrado verde tamaño 1 en (5,5).","TRIANGLE RED 1 1 1
+CIRCLE GREEN 2 2 3
+SQUARE GREEN 5 5 1"
+size_scene_0852,"Círculo amarillo 2×2 en el origen; círculo verde tamaño 1 en (2,0).","CIRCLE YELLOW 0 0 2
+CIRCLE GREEN 2 0 1"
+size_scene_0172,"De izquierda a derecha, con anclas en fila 2: cuadrado amarillo tamaño 1 en columna 0, círculo azul tamaño 3 en columna 1, cuadrado verde tamaño 2 en columna 4.","SQUARE YELLOW 0 2 1
+CIRCLE BLUE 1 2 3
+SQUARE GREEN 4 2 2"
+size_scene_0192,"Triángulo verde tamaño 3 desde (1,0), rojo tamaño 2 desde (4,0), cuadrado verde tamaño 3 desde (1,3).","TRIANGLE GREEN 1 0 3
+TRIANGLE RED 4 0 2
+SQUARE GREEN 1 3 3"
+size_scene_0189,"Cuadrados verdes en (1,2), tamaño 2, y (1,5), tamaño 1. El triángulo rojo ocupa 3×3 desde (3,2).","SQUARE GREEN 1 2 2
+TRIANGLE RED 3 2 3
+SQUARE GREEN 1 5 1"
+size_scene_1108,"Triángulo verde tamaño 3 desde el origen, cuadrado azul tamaño 2 inmediatamente bajo su huella y alineado a la izquierda.","TRIANGLE GREEN 0 0 3
+SQUARE BLUE 0 3 2"
+size_scene_0540,"Ubicá un círculo amarillo de una celda en (2,2), con un círculo azul 3×3 pegado a su derecha y alineado arriba. El cuadrado verde tamaño 1 va en (2,5).","CIRCLE YELLOW 2 2 1
+CIRCLE BLUE 3 2 3
+SQUARE GREEN 2 5 1"
+size_scene_0743,"Círculo rojo tamaño 2 desde (4,0), triángulo verde tamaño 1 en (4,2), triángulo verde tamaño 2 desde (4,4).","CIRCLE RED 4 0 2
+TRIANGLE GREEN 4 2 1
+TRIANGLE GREEN 4 4 2"
+size_scene_0186,"Un círculo rojo 2×2 con esquina en (2,2).",CIRCLE RED 2 2 2
+size_scene_0600,"Círculo azul 2×2 en (1,2), otro azul tamaño 1 pegado a la derecha y alineado arriba. Bajo el azul 2×2, pegado y alineado a la izquierda, círculo verde 2×2.","CIRCLE BLUE 1 2 2
+CIRCLE BLUE 3 2 1
+CIRCLE GREEN 1 4 2"
+size_scene_0904,"Triángulo rojo tamaño 3, con esquina superior izquierda en (2,0).",TRIANGLE RED 2 0 3
+size_scene_1088,"Cuadrado azul 2×2 desde (3,3), triángulo verde tamaño 1 inmediatamente bajo su huella, alineado a la izquierda.","SQUARE BLUE 3 3 2
+TRIANGLE GREEN 3 5 1"
+size_scene_0589,"Círculos verdes con columna inicial 3: tamaño 2 desde fila 2, tamaño 1 en fila 4.","CIRCLE GREEN 3 2 2
+CIRCLE GREEN 3 4 1"
+size_scene_0162,"Cuadrado amarillo 3×3 desde (2,1). En fila 4, triángulos tamaño 1, rojo en columna 4 y amarillo en columna 5.","SQUARE YELLOW 2 1 3
+TRIANGLE RED 4 4 1
+TRIANGLE YELLOW 5 4 1"
+size_scene_0922,"Dos figuras de una celda en columna 3, cuadrado verde en fila 3 y triángulo amarillo en fila 5.","SQUARE GREEN 3 3 1
+TRIANGLE YELLOW 3 5 1"
+size_scene_0419,"Acomodá en una franja vertical de ancho 2 desde columna 3 un cuadrado amarillo 2×2 desde fila 0, un triángulo azul 2×2 desde fila 2 y un círculo amarillo 2×2 desde fila 4.","SQUARE YELLOW 3 0 2
+TRIANGLE BLUE 3 2 2
+CIRCLE YELLOW 3 4 2"
+size_scene_0208,"Círculo verde tamaño 2 en (2,1), otro verde tamaño 1 en (1,0), triángulo amarillo tamaño 1 en (5,4).","CIRCLE GREEN 1 0 1
+CIRCLE GREEN 2 1 2
+TRIANGLE YELLOW 5 4 1"
