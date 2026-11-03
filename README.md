@@ -16,5 +16,6 @@ Dado que el proyecto se sincroniza mediante Dropbox entre **macOS** y **Windows*
 - **Windows**: `.venv-win/` (Python 3.12, `torch>=2.4` CPU, `transformers==5.2.0`, `peft`, `accelerate`).
   - Activación en PowerShell: `.venv-win\Scripts\Activate.ps1`
   - Ejecución / instalación con `uv` en red con proxy/certificados del sistema: añadir `--system-certs`.
+  - Carga del modelo sin red (caché local): `HF_HUB_OFFLINE=1` y `huggingface_hub.constants.HF_HUB_OFFLINE = True` se definen antes de instanciar `AutoTokenizer` para evitar que `transformers` consulte `model_info()` en línea.
 - **macOS**: `.venv/` (Python 3.12 para macOS).
   - Activación en bash/zsh: `source .venv/bin/activate`
