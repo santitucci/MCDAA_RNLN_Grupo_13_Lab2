@@ -1,6 +1,7 @@
 # Entornos virtuales
 .venv/
 .venv-win/
+.venv-mac/
 venv/
 env/
 

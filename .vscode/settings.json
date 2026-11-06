@@ -6,9 +6,20 @@
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv-win/Scripts/python.exe",
     "python.venvFolders": [
         ".venv-win",
-        ".venv"
+        ".venv-mac"
     ],
     "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+        "UV_PROJECT_ENVIRONMENT": ".venv-win",
+        "UV_LINK_MODE": "hardlink",
+        "UV_SYSTEM_CERTS": "true",
+        "HTTP_PROXY": "http://185.46.212.88:443",
+        "HTTPS_PROXY": "http://185.46.212.88:443"
+    },
+    "terminal.integrated.env.osx": {
+        "UV_PROJECT_ENVIRONMENT": ".venv-mac",
+        "UV_LINK_MODE": "hardlink"
+    },
     "notebook.kernelProviderAssociations": [
         {
             "viewType": "jupyter-notebook",
